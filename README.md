@@ -18,4 +18,4 @@ Important features of the DQN implementation in the agent.py file comparted of: 
 
 A simple maze example:
 
-<img src="images/maze_example.png" width=500>
+<img src="images/maze_simple_example.png" width=500>
