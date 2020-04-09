@@ -13,7 +13,7 @@ Important features of the DQN implementation in the agent.py file comprise of: <
 - Experience replay buffer (lines 279-334)
 - Prioritised experience replay (lines 313-318)
 - Decaying episode length with number of steps (lines 69-78)
-- Reward function which penalises hitting the wall proportionally to the distance from the goal, gives 0 reward for moving vertically and rewards positively when entering a circle close to the reward state (lines 142-156)
+- Reward function which penalises hitting the wall proportionally to the distance from the goal; gives 0 reward for moving vertically; rewards positively when entering a circle close to the reward state (lines 142-156)
 
 
 A **simple** maze example:
