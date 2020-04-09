@@ -16,6 +16,6 @@ Important features of the DQN implementation in the agent.py file comprise of: <
 - Reward function which penalises hitting the wall proportionally to the distance from the goal; gives 0 reward for moving vertically; rewards positively when entering a circle close to the reward state (lines 142-156)
 
 
-A **simple** maze example:
+An example of a **simple** maze, where the red dot is the agent and the green dot the goal:
 
 <img src="images/maze_simple_example.png" width=500>
