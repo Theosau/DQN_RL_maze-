@@ -5,7 +5,7 @@ This repository contains the 2nd Reinforcement Learning coursework from the Depa
 This project consisted of building an DQN implementation to solve a maze problem. <br>
 The random_environment.py and train_and_test.py files were given. <br>
 The random_environment.py file creates random maze environments. <br>
-The train_and_test.py creates an environment, trains the agent 10 minutes, and then tests it.
+The train_and_test.py creates an environment, trains the agent 10 minutes, and then tests it against a new maze.
 
 Important features of the DQN implementation in the agent.py file comprise of: <br>
 - Epsilon-greedy policy (lines 95-99)
