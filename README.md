@@ -1,6 +1,6 @@
-# DQN_RL_maze
-
 This repository contains the 2nd Reinforcement Learning coursework from the Department of Computing, Imperial College London, Academic Year 2019-2020, delivered by Dr A. Aldo Faisal and Dr Edward Johns. The coursework was developed with their PhD students. <br>
+
+# DQN_RL_maze
 
 This project consisted of building an DQN implementation to solve a maze problem. <br>
 The random_environment.py and train_and_test.py files were given. <br>
