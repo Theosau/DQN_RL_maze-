@@ -19,3 +19,65 @@ Important features of the DQN implementation in the agent.py file comparted of: 
 A **simple** maze example:
 
 <img src="images/maze_simple_example.png" width=500>
+
+
+
+
+
+## Requirements
+
+You need to use Python 3.6 or greater.
+
+## Installing the environment on a Unix system 
+
+We created this repository to ensure that everybody uses exactly the same versions of the libraries.
+
+To install the libraries, start by cloning this repository and enter the created folder:
+
+```shell script
+git clone https://github.com/Theosau/DQN_RL_maze-.git
+```
+
+Setting up a virtual environment (called ```venv``` here):
+
+```shell script
+python3 -m venv ./venv 
+```
+
+Then enter the environment:
+```shell script
+source venv/bin/activate
+```
+
+And install the libraries in the environment by launching the following command:
+```shell script
+pip install -r requirements.txt
+```
+
+This will install the following libraries (and their dependencies) in the virtual environment ```venv```:
+
+- ```torch``` 
+- ```opencv-python```
+- ```numpy```
+- ```matplotlib```
+
+## How to run a script ?
+
+Before launching your experiment, be sure to use the right virtual environment in your shell:
+```shell script
+source venv/bin/activate  # To launch in the project directory
+```
+
+Once you are in the right virtual environment, you can directly launch the scripts 
+by using one of the following command:
+```shell script
+python torch_example.py  # To launch the pytorch example script
+python starter_code.py  # To launch the coursework script
+```
+
+## Leaving the virtual environment
+
+If you want to leave the virtual environment, you just need to enter the following command:
+```shell script
+deactivate
+```
