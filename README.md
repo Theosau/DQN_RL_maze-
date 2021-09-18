@@ -20,7 +20,7 @@ An example of a **simple** maze, where the red dot is the agent and the green do
 
 <p align="center">
   <img src="images/maze_simple_example.png" width=500>
-<\p>
+</p>
 
 
 
