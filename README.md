@@ -18,8 +18,9 @@ Important features of the DQN implementation in the agent.py file comprise of: <
 
 An example of a **simple** maze, where the red dot is the agent and the green dot is the goal:
 
-<img src="images/maze_simple_example.png" width=500>
-
+<p align="center">
+  <img src="images/maze_simple_example.png" width=500>
+<\p>
 
 
 
